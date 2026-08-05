@@ -1,0 +1,12 @@
+Analysis Metric,Value
+Dataset Name,Netflix Clean Dataset
+Total Records,8790
+Total Features,16
+Movies Count,6126
+TV Shows Count,2664
+Countries Covered,86
+Genres Available,513
+Latest Release Year,2021
+Earliest Release Year,1925
+Missing Values,0
+Duplicate Records,0

@@ -1,0 +1,39 @@
+
+
+NETFLIX BUSINESS INTELLIGENCE REPORT
+====================================
+
+
+Dataset Overview:
+
+Total Titles: 8790
+
+Movies: 6126
+
+TV Shows: 2664
+
+Countries Covered: 86
+
+Genres Available: 42
+
+
+
+Key Findings:
+
+1. International Movies is the most common content category.
+
+2. United States produces the highest amount of Netflix content.
+
+3. Netflix contains content from 1925 to 2021.
+
+4. Machine learning clustering identified 4 content segments.
+
+
+
+Business Recommendations:
+
+
+- Increase investment in International Movies genre because it has the highest content availability.
+- Expand content acquisition strategies in United States market.
+- Netflix has more movie content. Increasing TV Show production can improve content balance.
+- Analyze recent release trends to identify emerging audience preferences.

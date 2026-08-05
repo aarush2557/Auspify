@@ -1,0 +1,17 @@
+Column,Data Type,Missing Values,Missing Percentage,Unique Values
+show_id,str,0,0.0,8790
+type,str,0,0.0,2
+title,str,0,0.0,8787
+director,str,0,0.0,4528
+country,str,0,0.0,86
+date_added,datetime64[us],0,0.0,1713
+release_year,int64,0,0.0,74
+rating,str,0,0.0,14
+duration,str,0,0.0,220
+listed_in,str,0,0.0,513
+content_age,int64,0,0.0,74
+added_year,int32,0,0.0,14
+added_month,str,0,0.0,12
+added_quarter,int32,0,0.0,4
+movie_duration,float64,0,0.0,210
+decade,int64,0,0.0,10
